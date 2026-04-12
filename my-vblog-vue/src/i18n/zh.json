@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "首页",
+    "search": "搜索",
+    "links": "链接",
+    "archives": "归档"
+  },
+  "ui": {
+    "darkMode": "暗色模式",
+    "lightMode": "亮色模式",
+    "readingTime": "{time} 分钟阅读",
+    "published": "发布于",
+    "categories": "分类",
+    "tags": "标签",
+    "recentArticles": "最近文章",
+    "readMore": "阅读更多",
+    "searchPlaceholder": "搜索文章...",
+    "noResults": "未找到结果",
+    "allCategories": "所有分类",
+    "allTags": "所有标签",
+    "articleCount": "{count} 篇文章"
+  },
+  "footer": {
+    "copyright": "© 2020 - 2026 技术博客",
+    "builtWith": "使用 Vue 构建",
+    "themeBy": "主题 Stack 由 Jimmy 设计"
+  }
+}

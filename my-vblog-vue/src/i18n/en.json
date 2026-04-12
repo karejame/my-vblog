@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "links": "Links",
+    "archives": "Archives"
+  },
+  "ui": {
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "readingTime": "{time} min read",
+    "published": "Published",
+    "categories": "Categories",
+    "tags": "Tags",
+    "recentArticles": "Recent Articles",
+    "readMore": "Read more",
+    "searchPlaceholder": "Search articles...",
+    "noResults": "No results found",
+    "allCategories": "All Categories",
+    "allTags": "All Tags",
+    "articleCount": "{count} articles"
+  },
+  "footer": {
+    "copyright": "© 2020 - 2026 Tech Blog",
+    "builtWith": "Built with Vue",
+    "themeBy": "Theme Stack designed by Jimmy"
+  }
+}
